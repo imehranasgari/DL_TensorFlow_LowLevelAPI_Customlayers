@@ -116,6 +116,6 @@ custom_dense_layer (CustomDenseLayer) (None, 64)        576
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License – see the `LICENSE` file for details.
 
 ---
